@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 ### Currently I'm
-* 👨‍💻 Cadet in 42SEOUL.\n
+* 👨‍💻 Cadet in 42SEOUL.<br>
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/ulee?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
 
