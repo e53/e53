@@ -20,14 +20,12 @@ Here are some ideas to get you started:
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/ulee?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 <br>
-<br>
 
 
 ### I'm interested in
 * 🎛 C
 * 📲 IOS, Swift
-<br>
 
 ### Thank you for visiting!
-<br>
+
 
