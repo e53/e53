@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there, I'm Usang Lee🙋‍♂️
-<br>
 
 ### Currently I'm
 * 👨‍💻 Cadet in 42SEOUL.<br>
@@ -25,7 +24,7 @@ Here are some ideas to get you started:
 ### I'm interested in
 * 🎛 C
 * 📲 IOS, Swift
-
+<br>
 ### Thank you for visiting!
 
 
