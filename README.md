@@ -14,11 +14,17 @@ Here are some ideas to get you started:
 -->
 ### Hi there, I'm Usang Lee🙋‍♂️
 
+
 ### Currently I'm
-👨‍💻Cadet in 42SEOUL.
+* 👨‍💻 Cadet in 42SEOUL.
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/ulee?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+
 
 ### I'm interested in
-C, Swift, IOS
+* 🎛 C
+* 📲 IOS, Swift
 
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/ulee?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+### Thank you for visiting!
+
+
