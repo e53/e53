@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### I'm interested in
 * 🎛 C
-* 📲 IOS, Swift
+* 📲 Swift
 
 <br>
 
